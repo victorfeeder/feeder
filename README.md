@@ -6,6 +6,7 @@ feito para podcasts só,ele dá para Link simbolico
 * extraia o zip na pasta pessoal
 * precisa de fazer o comando sudo zypper install python3 python3-pip python3-tk vlc vlc-devel ffmpeg git
 * rode no terminal  isso:chmod +x ~/feeder/main.py , depois disso, ln -sf ~/feeder/main.py ~/.local/bin/feeder .
+* e depois `feeder` isso abre um app de podcasts(em cima do input,Lori Loud,de Loud House)
 
   
 | `feedparser` | `python3 -m pip install feedparser` |
